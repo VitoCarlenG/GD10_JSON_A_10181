@@ -1,0 +1,54 @@
+{
+	"NamaUniversitas": "Universitas Atma Jaya Yogyakarta",
+	"students": [
+		{
+			"firstName": "John",
+			"lastName": "Doe",
+			"npm": "123456789",
+			"prodi": "Informatika",
+			"fakultas": "FTI"
+		},
+		{
+			"firstName": "Jack",
+			"lastName": "Daniel",
+			"npm": "123456788",
+			"prodi": "Bisnis",
+			"fakultas": "FBE"
+		},
+		{
+			"firstName": "James",
+			"lastName": "Bond",
+			"npm": "123456787",
+			"prodi": "Hukum",
+			"fakultas": "FH"
+		},
+		{
+			"firstName": "John",
+			"lastName": "Lee",
+			"npm": "123456786",
+			"prodi": "Sipil",
+			"fakultas": "FT"
+		},
+		{
+			"firstName": "Jill",
+			"lastName": "Valentine",
+			"npm": "123456781",
+			"prodi": "Hukum",
+			"fakultas": "FH"
+		},
+		{
+			"firstName": "Jim",
+			"lastName": "Jim",
+			"npm": "123456123",
+			"prodi": "Arsitektur",
+			"fakultas": "FT"
+		},
+		{
+			"firstName": "Jones",
+			"lastName": "Jones",
+			"npm": "123456120",
+			"prodi": "Manajemen",
+			"fakultas": "FBE"
+		}
+	]
+}
